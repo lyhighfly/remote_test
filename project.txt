@@ -1,2 +1,1 @@
-android.library.reference.4=../Letv_Ads_5.8_sdk
 >>>>>>> .r75325
