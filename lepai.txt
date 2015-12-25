@@ -19,3 +19,4 @@
 }
 
 add line from github  by origin
+github add from pc
